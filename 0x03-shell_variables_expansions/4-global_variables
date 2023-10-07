@@ -1,2 +1,2 @@
 #!/bin/bash
-env | tr '\0' '\n'
+printenv
